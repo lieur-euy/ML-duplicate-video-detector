@@ -10,3 +10,9 @@ ML Video Duplicate Finder is a tool to detect duplicate videos within a folder u
   - Sufficient storage for large video files  
 
 
+## Installation  
+```bash
+
+cd video-duplicate-finder
+mdir videos
+pip install -r requirements.txt
